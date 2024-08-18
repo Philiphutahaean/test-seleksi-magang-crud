@@ -1,0 +1,14 @@
+com\example\restapi\service\ProyekService.class
+com\example\restapi\RestapiApplication.class
+com\example\restapi\controller\ProyekLokasiController.class
+com\example\restapi\model\Proyek.class
+com\example\restapi\model\Lokasi.class
+com\example\restapi\service\LokasiService.class
+com\example\restapi\service\ProyekLokasiService.class
+com\example\restapi\controller\ProyekController.class
+com\example\restapi\repository\ProyekRepository.class
+com\example\restapi\model\ProyekLokasi.class
+com\example\restapi\repository\ProyekLokasiRepository.class
+com\example\restapi\controller\LokasiController.class
+com\example\restapi\model\ProyekLokasiId.class
+com\example\restapi\repository\LokasiRepository.class
